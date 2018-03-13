@@ -1,0 +1,22 @@
+﻿html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;vertical-align:baseline;}
+table {border-collapse:separate;border-spacing:0;}
+caption, th, td {font-weight:normal;}
+a img {border:none;}
+.clear {clear: both;}
+.clr{clear:both;height:0;}
+a:hover { cursor: pointer;}
+li{list-style:none;}
+.hidden {display: none !important;}
+article, aside, footer, header, hgroup, nav, section {display: block;}
+a, input, textarea {outline:none;}
+a:active, a:focus { outline: none; }
+input, textarea {outline:none;}
+input:active, textarea:active {outline:none;}
+:focus {outline:none;}
+button:active, button:focus {
+  outline: none !important;
+}
+button::-moz-focus-inner { 
+	padding:0;
+	border:0;
+}
